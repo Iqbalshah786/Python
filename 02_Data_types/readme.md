@@ -18,16 +18,9 @@ The rest of the name **can consist of letters, numbers, or underscores.**
 # Variable naming convention:
 
 - Most variables should be **snake_case** (underscores between words)
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 5b5056f (Update variable naming convention in readme.md)
+
 - Most variables should be **snake_case** (underscores between words)
->>>>>>> 5ffe146 (day 2)
->>>>>>> ee77fd7 (day second)
+
 * Variables that start and end with **two underscores** (called **"dunder"** for double underscore) are
 supposed to be **private** or **left alone**
   - __no_change__
