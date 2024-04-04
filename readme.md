@@ -18,8 +18,6 @@ The rest of the name **can consist of letters, numbers, or underscores.**
 # Variable naming convention:
 
 - Most variables should be **snake_case** (underscores between words)
-<<<<<<< HEAD
-=======
 - Most variables should be **snake_case** (underscores between words)
 >>>>>>> ee77fd7 (day second)
 * Variables that start and end with **two underscores** (called **"dunder"** for double underscore) are
