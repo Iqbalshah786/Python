@@ -19,7 +19,6 @@ The rest of the name **can consist of letters, numbers, or underscores.**
 
 - Most variables should be **snake_case** (underscores between words)
 
-- Most variables should be **snake_case** (underscores between words)
 
 * Variables that start and end with **two underscores** (called **"dunder"** for double underscore) are
 supposed to be **private** or **left alone**
