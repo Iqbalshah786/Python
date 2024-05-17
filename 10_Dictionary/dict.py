@@ -3,9 +3,9 @@ tea_types = {
     "Ginger":"Zesty",
     "Green":"Mild",
 }
-print(tea_types["Masala"]) # return errors if not exits
+print(tea_types["Masala"]) # return error if not exits
 
-print(tea_types.get("Green")) ## do not return errors if not exits
+print(tea_types.get("Green")) ## do not return error if not exits
 
 tea_types["Green"] = "Fresh"
 
