@@ -46,7 +46,7 @@ python freeapi_username.py
 ```
 
 ### Exit
-You can exit the exit the virtual environment by the following command:
+You can exit the  virtual environment by the following command:
 
 ```sh
 deactivate
