@@ -44,7 +44,7 @@ def main():
     else: 
         closest_matches = check_spelling_and_suggest_closest_word(user_word,data)
         if closest_matches:
-                print(f"Did you mean {closest_matches[0]} instead ? Enter Y if yes, or N if no: ")
+                print(f"Did you mean {closest_matches[0]} instead? Enter Y if yes, or N if no: ")
                 user_response = input().strip().lower()
                 
                 if user_response == 'y':
