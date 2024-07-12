@@ -18,6 +18,9 @@ def find_first(alist,key):
             end = mid - 1
     return result
 
+# Function to find the last occurrence of key
+
+
 def find_last(alist, key):
     start = 0
     end = len(alist) - 1
