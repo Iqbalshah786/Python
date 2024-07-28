@@ -1,6 +1,6 @@
 # pyfiglet and termcolor modules
 
-This project demonstrates how to use `pyfiglet` and `termcolor` to print colored ASCII art in Python.
+This directory demonstrates how to use `pyfiglet` and `termcolor` to print colored ASCII art in Python.
 
 ## directory Structure
 
